@@ -1,9 +1,31 @@
+# How AI Connects Inc. - AI Platform
+
 <p align="center"><code>npm i -g @openai/codex</code><br />or <code>brew install --cask codex</code></p>
 
-<p align="center"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer.
+<p align="center"><strong>How AI Connects AI Platform</strong> - Enterprise-ready AI-assisted development built on OpenAI Codex technology.
 </br>
-</br>If you want Codex in your code editor (VS Code, Cursor, Windsurf), <a href="https://developers.openai.com/codex/ide">install in your IDE</a>
-</br>If you are looking for the <em>cloud-based agent</em> from OpenAI, <strong>Codex Web</strong>, go to <a href="https://chatgpt.com/codex">chatgpt.com/codex</a></p>
+</br>A comprehensive ecosystem bridging artificial intelligence and practical software development.</p>
+
+## About This Platform
+
+The **How AI Connects Inc. AI Platform** extends OpenAI's Codex with enterprise-grade capabilities, enhanced security, and comprehensive integration options. Built for developers, teams, and organizations who need reliable, secure, and powerful AI-assisted development tools.
+
+**Key Features:**
+
+- 🚀 **Multi-Modal Access**: CLI, IDE integration, Web interface, and SDK/API
+- 🔒 **Enterprise Security**: Sandboxed execution, zero data retention options, comprehensive approvals
+- 🔌 **Extensible**: Model Context Protocol (MCP) support and custom agent framework
+- 🎯 **Developer-First**: Intuitive tools that enhance existing workflows
+- 📊 **Production-Ready**: Built with Rust for performance and reliability
+
+### Platform Options
+
+- **CLI**: Interactive terminal interface - `codex` command runs locally on your computer
+- **IDE Extensions**: Native integration for VS Code, Cursor, Windsurf - <a href="https://developers.openai.com/codex/ide">install in your IDE</a>
+- **Web**: Cloud-based access via <a href="https://chatgpt.com/codex">chatgpt.com/codex</a>
+- **SDK**: Programmatic access for automation and custom integrations
+
+> 📖 **Learn More**: See our [Platform Vision](./VISION.md) and [Company Overview](./COMPANY.md) to understand our mission and strategic direction.</p>
 
 <p align="center">
   <img src="./.github/codex-cli-splash.png" alt="Codex CLI splash" width="80%" />
@@ -71,7 +93,16 @@ Codex CLI supports a rich set of configuration options, with preferences stored 
 
 ---
 
-### Docs & FAQ
+### Platform Documentation
+
+> 📘 **Documentation Guide**: New to our documentation? Check out the [Documentation Overview](./DOCUMENTATION.md) for a quick reference to all our docs.
+
+#### Vision & Strategy
+
+- [**Platform Vision**](./VISION.md) - Our mission, vision, and strategic direction
+- [**Company Overview**](./COMPANY.md) - About How AI Connects Inc.
+
+#### Getting Started
 
 - [**Getting started**](./docs/getting-started.md)
   - [CLI usage](./docs/getting-started.md#cli-usage)
@@ -80,12 +111,19 @@ Codex CLI supports a rich set of configuration options, with preferences stored 
   - [Example prompts](./docs/getting-started.md#example-prompts)
   - [Custom prompts](./docs/prompts.md)
   - [Memory with AGENTS.md](./docs/getting-started.md#memory-with-agentsmd)
+
+#### Configuration & Security
+
 - [**Configuration**](./docs/config.md)
   - [Example config](./docs/example-config.md)
 - [**Sandbox & approvals**](./docs/sandbox.md)
 - [**Authentication**](./docs/authentication.md)
   - [Auth methods](./docs/authentication.md#forcing-a-specific-auth-method-advanced)
   - [Login on a "Headless" machine](./docs/authentication.md#connecting-on-a-headless-machine)
+- [**Zero data retention (ZDR)**](./docs/zdr.md)
+
+#### Automation & Integration
+
 - **Automating Codex**
   - [GitHub Action](https://github.com/openai/codex-action)
   - [TypeScript SDK](./sdk/typescript/README.md)
@@ -93,7 +131,9 @@ Codex CLI supports a rich set of configuration options, with preferences stored 
 - [**Advanced**](./docs/advanced.md)
   - [Tracing / verbose logging](./docs/advanced.md#tracing--verbose-logging)
   - [Model Context Protocol (MCP)](./docs/advanced.md#model-context-protocol-mcp)
-- [**Zero data retention (ZDR)**](./docs/zdr.md)
+
+#### Development & Community
+
 - [**Contributing**](./docs/contributing.md)
 - [**Install & build**](./docs/install.md)
   - [System Requirements](./docs/install.md#system-requirements)
@@ -104,6 +144,19 @@ Codex CLI supports a rich set of configuration options, with preferences stored 
 
 ---
 
+## About How AI Connects Inc.
+
+**How AI Connects Inc.** is dedicated to democratizing AI-assisted development and making advanced AI capabilities accessible, reliable, and seamlessly integrated into every developer's workflow. We build enterprise-ready platforms that empower developers and organizations worldwide.
+
+**Our Vision**: To bridge the gap between artificial intelligence and practical software development  
+**Our Mission**: To enhance productivity, accelerate innovation, and maintain the highest standards of quality and security
+
+Learn more in our [Platform Vision](./VISION.md) and [Company Overview](./COMPANY.md).
+
+---
+
 ## License
 
 This repository is licensed under the [Apache-2.0 License](LICENSE).
+
+Built on OpenAI Codex technology. Copyright 2025 How AI Connects Inc.
