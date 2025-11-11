@@ -95,6 +95,8 @@ Codex CLI supports a rich set of configuration options, with preferences stored 
 
 ### Platform Documentation
 
+> 📘 **Documentation Guide**: New to our documentation? Check out the [Documentation Overview](./DOCUMENTATION.md) for a quick reference to all our docs.
+
 #### Vision & Strategy
 
 - [**Platform Vision**](./VISION.md) - Our mission, vision, and strategic direction
