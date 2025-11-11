@@ -11,6 +11,17 @@
 
 ---
 
+## Vision & Strategy
+
+How AI Connects Inc. operates an enterprise-grade AI-assisted development platform with a focus on security, compliance, and extensibility:
+
+- [**COMPREHENSIVE_REPORT.md**](./COMPREHENSIVE_REPORT.md) - Complete organization overview integrating all strategic documents
+- [**VISION.md**](./VISION.md) - Platform technical strategy, architecture, and roadmap
+- [**COMPANY.md**](./COMPANY.md) - Company values, market positioning, and business approach
+- [**DOCUMENTATION.md**](./DOCUMENTATION.md) - Navigation guide for all documentation with audience-specific paths
+
+---
+
 ## Quickstart
 
 ### Installing and running Codex CLI
